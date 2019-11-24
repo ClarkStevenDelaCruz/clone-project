@@ -1,0 +1,39 @@
+.slider .btn {
+  margin-top: 20px;
+}
+
+.section-search input {
+  padding: 5px !important;
+  font-size: 18px !important;
+  width: 90% !important;
+  border: #f4f4f4 3px solid !important;
+}
+
+.section-follow .fa-4x {
+  margin: 5px 10px;
+}
+
+.section-contact h5 {
+  margin-bottom: 30px;
+}
+.logo {
+  width: 50px;
+  padding-top: 8pt;
+}
+.site-name {
+}
+#footer-info {
+  font-size: 13px;
+  float: none;
+  text-align: center;
+  padding-bottom: 10px;
+  color: #666;
+}
+#more {
+  display: none;
+}
+.card-title {
+  background-color: grey;
+  opacity: 0.8;
+  filter: alpha(opacity=50);
+}
